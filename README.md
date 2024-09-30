@@ -4,6 +4,14 @@ Reading list for research in generation models.
 We list the most popular methods for generation models, if we missed something, please submit a request.
 (Note: We show the date the first edition of the paper was submitted to arxiv, but the link to the paper may be up to date.)
 
+Autoregressive generation model:
+Date|Method|Conference|Title|Code/Project Page|abstract
+-----|----|-----|-----|-----|-----
+Jun 2024|LlamaGen|CVPR Jun 2024|[Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation](https://arxiv.org/abs/2406.06525)|None|***
+Jun 2024|MAR|ARXIV Jun 2024|[Autoregressive Image Generation without Vector Quantization](https://arxiv.org/abs/2406.11838)|[code](https://github.com/LTH14/mar)|去除VQ过程的自回归生成方法
+Jun 2024|VAR|PR Jun 2024|[Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction](https://arxiv.org/abs/2404.02905)|[code](https://github.com/FoundationVision/VAR)|以不同scale图像作为自回归单位进行自回归生成
+
+
 Generative Tasks：
 
 Date|Method|Conference|Title|Code/Project Page
