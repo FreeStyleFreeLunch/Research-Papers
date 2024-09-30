@@ -12,7 +12,7 @@ Jun 2024|MAR|ARXIV Jun 2024|[Autoregressive Image Generation without Vector Quan
 Jun 2024|VAR|PR Jun 2024|[Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction](https://arxiv.org/abs/2404.02905)|[code](https://github.com/FoundationVision/VAR)|以不同scale图像作为自回归单位进行自回归生成
 
 
-Generative Tasks：
+Diffusion model：
 
 Date|Method|Conference|Title|Code/Project Page
 -----|----|-----|-----|-----
@@ -61,6 +61,11 @@ Date|Conference|Title
 2022-09-10|Arxiv 2022|[Diffusion Models in Vision: A Survey](https://arxiv.org/pdf/2209.04747.pdf)
 2022-09-12|Arxiv 2022|[A Survey on Generative Diffusion Model](https://arxiv.org/pdf/2209.02646.pdf)
 2023-04-02|Arxiv 2023|[Text-to-image Diffusion Models in Generative AI:A Survey](https://arxiv.org/pdf/2303.07909.pdf)
+
+Large Language Models：
+Date|Method|Conference|Title|Code
+-----|----|-----|-----|-----
+Feb 2023|LLAMA|Arxiv Feb 2023|[Llama: Open and efficient foundation language models](https://arxiv.org/abs/2302.13971)|[code](https://github.com/meta-llama/llama)
 
 Tutorial:
 
