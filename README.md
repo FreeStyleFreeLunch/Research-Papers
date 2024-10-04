@@ -10,7 +10,7 @@ Date|Method|Conference|Title|Code/Project Page|abstract
 Jun 2024|LlamaGen|CVPR Jun 2024|[Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation](https://arxiv.org/abs/2406.06525)|[code](https://github.com/FoundationVision/LlamaGen)|采用与Llama相同的网络结构实现了图像的自回归生成，在语言视觉模型的范式统一上具有重要意义
 Jun 2024|MAR|ARXIV Jun 2024|[Autoregressive Image Generation without Vector Quantization](https://arxiv.org/abs/2406.11838)|[code](https://github.com/LTH14/mar)|去除VQ过程的自回归生成方法
 Jun 2024|VAR|PR Jun 2024|[Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction](https://arxiv.org/abs/2404.02905)|[code](https://github.com/FoundationVision/VAR)|以不同scale图像作为自回归单位进行自回归生成
-Sep 2024|None|AI Sep 2024|[Multi-Modal Generative AI: Multi-modal LLM, Diffusion and Beyond](https://arxiv.org/abs/2409.14993)|None|语言生成模型和图像生成模型的统一模型观点
+
 
 
 
@@ -63,7 +63,7 @@ Date|Conference|Title
 2022-09-10|Arxiv 2022|[Diffusion Models in Vision: A Survey](https://arxiv.org/pdf/2209.04747.pdf)
 2022-09-12|Arxiv 2022|[A Survey on Generative Diffusion Model](https://arxiv.org/pdf/2209.02646.pdf)
 2023-04-02|Arxiv 2023|[Text-to-image Diffusion Models in Generative AI:A Survey](https://arxiv.org/pdf/2303.07909.pdf)
-
+Sep 2024|AI Sep 2024|[Multi-Modal Generative AI: Multi-modal LLM, Diffusion and Beyond](https://arxiv.org/abs/2409.14993)
 Large Language Models：
 Date|Method|Conference|Title|Code
 -----|----|-----|-----|-----
