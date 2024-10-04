@@ -63,7 +63,9 @@ Date|Conference|Title
 2022-09-10|Arxiv 2022|[Diffusion Models in Vision: A Survey](https://arxiv.org/pdf/2209.04747.pdf)
 2022-09-12|Arxiv 2022|[A Survey on Generative Diffusion Model](https://arxiv.org/pdf/2209.02646.pdf)
 2023-04-02|Arxiv 2023|[Text-to-image Diffusion Models in Generative AI:A Survey](https://arxiv.org/pdf/2303.07909.pdf)
-Sep 2024|AI Sep 2024|[Multi-Modal Generative AI: Multi-modal LLM, Diffusion and Beyond](https://arxiv.org/abs/2409.14993)
+Sep 2024|AI 2024|[Multi-Modal Generative AI: Multi-modal LLM, Diffusion and Beyond](https://arxiv.org/abs/2409.14993)
+
+
 Large Language Models：
 Date|Method|Conference|Title|Code
 -----|----|-----|-----|-----
