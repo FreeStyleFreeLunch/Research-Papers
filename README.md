@@ -75,6 +75,8 @@ Model Merging:
 Date|Method|Conference|Title|Code/Project Page|abstract
 -----|----|-----|-----|-----|-----
 Sep 2024|None|ML Sep 2024|[REALISTIC EVALUATION OF MODEL MERGING FORCOMPOSITIONAL GENERALIZATION](https://arxiv.org/pdf/2409.18314)|None|None
+Jun 2024|WATT|CVPR Jun 2024|[WATT: Weight Average Test-Time Adaptation of CLIP](https://arxiv.org/abs/2406.13875)|None|在test-time adaptation的问题中采用model merging的方法提高模型泛化能力
+
 
 Tutorial:
 
