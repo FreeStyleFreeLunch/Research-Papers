@@ -71,6 +71,11 @@ Date|Method|Conference|Title|Code
 -----|----|-----|-----|-----
 Feb 2023|LLAMA|Arxiv Feb 2023|[Llama: Open and efficient foundation language models](https://arxiv.org/abs/2302.13971)|[code](https://github.com/meta-llama/llama)
 
+Model Merging:
+Date|Method|Conference|Title|Code/Project Page|abstract
+-----|----|-----|-----|-----|-----
+Sep 2024|None|ML Sep 2024|[REALISTIC EVALUATION OF MODEL MERGING FORCOMPOSITIONAL GENERALIZATION](https://arxiv.org/pdf/2409.18314)|None|None
+
 Tutorial:
 
 [CVPR 2022 Tutorial:Denoising Diffusion-based Generative Modeling: Foundations and Applications](https://cvpr2022-tutorial-diffusion-models.github.io)
