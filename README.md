@@ -44,6 +44,7 @@ Date|Method|Conference|Title|Code/Project Page
 2022-11-17|RenderDiffusion|Arxiv 2022|[RenderDiffusion: Image Diffusion for 3D Reconstruction, Inpainting and Generation](https://arxiv.org/pdf/2211.09869.pdf)|[RenderDiffusion](https://github.com/Anciukevicius/RenderDiffusion)
 2022-11-17|Null-text Inversion|Arxiv 2022|[Null-text Inversion for Editing Real Images using Guided Diffusion Models](https://arxiv.org/pdf/2211.09794.pdf)|[Null-text Inversion](https://null-text-inversion.github.io/)
 2022-11-25|3DDesigner|Arxiv 2022|[3DDesigner: Towards Photorealistic 3D Object Generation and Editing with Text-guided Diffusion Models](https://arxiv.org/pdf/2211.14108.pdf)|[3DDesigner](https://3ddesigner-diffusion.github.io/)
+2024-x-x|DEADiff|CVPR 2024|[DEADiff: An Efficient Stylization Diffusion Model with Disentangled Representations](https://openaccess.thecvf.com/content/CVPR2024/papers/Qi_DEADiff_An_Efficient_Stylization_Diffusion_Model_with_Disentangled_Representations_CVPR_2024_paper.pdf)|[DEADiff](https://tianhao-qi.github.io/DEADiff/)
 
 
 Segmentation：
