@@ -4,6 +4,12 @@ Reading list for research in generation models.
 We list the most popular methods for generation models, if we missed something, please submit a request.
 (Note: We show the date the first edition of the paper was submitted to arxiv, but the link to the paper may be up to date.)
 
+Backbone:
+Date|Method|Conference|Title|Code/Project Page|abstract
+-----|----|-----|-----|-----|-----
+2024|VisionLLaMA|ECCV 2024|[VisionLLaMA: A Unified LLaMA Backbone for Vision Tasks](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08280.pdf)|对视觉语言大模型的大一统backbone进行了探讨
+
+
 Autoregressive generation model:
 Date|Method|Conference|Title|Code/Project Page|abstract
 -----|----|-----|-----|-----|-----
