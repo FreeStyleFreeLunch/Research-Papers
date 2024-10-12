@@ -7,7 +7,7 @@ We list the most popular methods for generation models, if we missed something, 
 Backbone:
 Date|Method|Conference|Title|Code/Project Page|abstract
 -----|----|-----|-----|-----|-----
-2024|VisionLLaMA|ECCV 2024|[VisionLLaMA: A Unified LLaMA Backbone for Vision Tasks](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08280.pdf)|[code](https://github.com/Meituan-AutoML/VisionLLaMA)|对视觉语言大模型的大一统backbone进行了探讨
+2024|VisionLLaMA|ECCV 2024|[VisionLLaMA: A Unified LLaMA Backbone for Vision Tasks](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08280.pdf)|[code](https://github.com/Meituan-AutoML/VisionLLaMA)|对视觉语言大模型的大一统backbone进行了探讨,主要提出了一个2d位置编码
 
 
 Autoregressive generation model:
