@@ -22,7 +22,7 @@ Oct 2024|DART|Oct 2024|[DART: Denoising Autoregressive Transformer for Scalable 
 
 Diffusion model：
 
-Date|Method|Conference|Title|Code/Project Page
+Date|Method|Conference|Title|Code/Project Page/abstract
 -----|----|-----|-----|-----
 2015-xx-xx|Diffusion models|ICML 2015|[Deep Unsupervised Learning using Nonequilibrium Thermodynamics](http://proceedings.mlr.press/v37/sohl-dickstein15.pdf)|None
 2020-06-09|Denoised Diffusion models|NeurIPS 2020|[Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2006.11239.pdf)|[Diffusion Models](https://github.com/hojonathanho/diffusion)
