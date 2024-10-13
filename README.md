@@ -17,7 +17,8 @@ Jun 2024|LlamaGen|CVPR Jun 2024|[Autoregressive Model Beats Diffusion: Llama for
 Jun 2024|MAR|ARXIV Jun 2024|[Autoregressive Image Generation without Vector Quantization](https://arxiv.org/abs/2406.11838)|[code](https://github.com/LTH14/mar)|去除VQ过程的自回归生成方法
 Jun 2024|VAR|PR Jun 2024|[Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction](https://arxiv.org/abs/2404.02905)|[code](https://github.com/FoundationVision/VAR)|以不同scale图像作为自回归单位进行自回归生成
 Oct 2024|MovieGen|Oct 2024|[Movie Gen: A Cast of Media Foundation Models](https://ai.meta.com/static-resource/movie-gen-research-paper/?utm_source=twitter&utm_medium=organic_social&utm_content=thread&utm_campaign=moviegen)|[poster](https://ai.meta.com/blog/movie-gen-media-foundation-models-generative-ai-video/)|继Sora后Meta推出的视频生成模型
-Oct 2024|DART|Oct 2024|[DART: Denoising Autoregressive Transformer for Scalable Text-to-Image Generation](https://arxiv.org/html/2410.08159v1)|[poster](https://arxiv.org/html/2410.08159v1)|come soon
+Oct 2024|DART|Oct 2024|[DART: Denoising Autoregressive Transformer for Scalable Text-to-Image Generation](https://arxiv.org/html/2410.08159v1)|[poster](https://arxiv.org/html/2410.08159v1)|提出了一种与LLM主流模型结构具有统一性的扩散生成模型（里面推导很多，暂时没看懂）
+
 
 Diffusion model：
 
@@ -51,6 +52,7 @@ Date|Method|Conference|Title|Code/Project Page
 2022-11-25|3DDesigner|Arxiv 2022|[3DDesigner: Towards Photorealistic 3D Object Generation and Editing with Text-guided Diffusion Models](https://arxiv.org/pdf/2211.14108.pdf)|[3DDesigner](https://3ddesigner-diffusion.github.io/)
 2024-x-x|DEADiff|CVPR 2024|[DEADiff: An Efficient Stylization Diffusion Model with Disentangled Representations](https://openaccess.thecvf.com/content/CVPR2024/papers/Qi_DEADiff_An_Efficient_Stylization_Diffusion_Model_with_Disentangled_Representations_CVPR_2024_paper.pdf)|[DEADiff](https://tianhao-qi.github.io/DEADiff/)
 2024-8-14|TurboEdit|ARXIV 2024|[TurboEdit: Instant text-based image editing](https://arxiv.org/abs/2408.08332)|diffusion模型的目标解耦和图像编辑
+2021-X-X|VDM|NIPS 2021|[Variational Diffusion Models](https://proceedings.neurips.cc/paper/2021/file/b578f2a52a0229873fefc2a4b06377fa-Paper.pdf)|COMING SOON
 
 
 Segmentation：
