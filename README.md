@@ -87,6 +87,7 @@ Date|Method|Conference|Title|Code/Project Page|abstract
 -----|----|-----|-----|-----|-----
 Sep 2024|None|ML Sep 2024|[REALISTIC EVALUATION OF MODEL MERGING FORCOMPOSITIONAL GENERALIZATION](https://arxiv.org/pdf/2409.18314)|None|None
 Jun 2024|WATT|CVPR Jun 2024|[WATT: Weight Average Test-Time Adaptation of CLIP](https://arxiv.org/abs/2406.13875)|None|在test-time adaptation的问题中采用model merging的方法提高模型泛化能力
+9 Oct 2024|DECOUPLE-THEN-MERGE|9 Oct 2024|[DECOUPLE-THEN-MERGE:TOWARDS BETTER TRAINING FOR DIFFUSION MODELS](https://arxiv.org/pdf/2410.06664)|None|分时间步分别训练diffusion模型再通过merging得到减少由于不同时间步导致的参数冲突问题
 
 
 Tutorial:
