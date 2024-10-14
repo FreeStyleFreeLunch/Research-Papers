@@ -14,7 +14,7 @@ Autoregressive generation model:
 Date|Method|Conference|Title|Code/Project Page|abstract
 -----|----|-----|-----|-----|-----
 Jun 2024|LlamaGen|CVPR Jun 2024|[Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation](https://arxiv.org/abs/2406.06525)|[code](https://github.com/FoundationVision/LlamaGen)|采用与Llama相同的网络结构实现了图像的自回归生成，在语言视觉模型的范式统一上具有重要意义
-Jun 2024|MAR|ARXIV Jun 2024|[Autoregressive Image Generation without Vector Quantization](https://arxiv.org/abs/2406.11838)|[code](https://github.com/LTH14/mar)|去除VQ过程的自回归生成方法
+28 Jul 2024|MAR|ARXIV 28 Jul 2024|[Autoregressive Image Generation without Vector Quantization](https://arxiv.org/abs/2406.11838)|[code](https://github.com/LTH14/mar)|去除VQ过程的自回归生成方法
 Jun 2024|VAR|PR Jun 2024|[Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction](https://arxiv.org/abs/2404.02905)|[code](https://github.com/FoundationVision/VAR)|以不同scale图像作为自回归单位进行自回归生成
 Oct 2024|MovieGen|Oct 2024|[Movie Gen: A Cast of Media Foundation Models](https://ai.meta.com/static-resource/movie-gen-research-paper/?utm_source=twitter&utm_medium=organic_social&utm_content=thread&utm_campaign=moviegen)|[poster](https://ai.meta.com/blog/movie-gen-media-foundation-models-generative-ai-video/)|继Sora后Meta推出的视频生成模型
 Oct 2024|DART|Oct 2024|[DART: Denoising Autoregressive Transformer for Scalable Text-to-Image Generation](https://arxiv.org/html/2410.08159v1)|[poster](https://arxiv.org/html/2410.08159v1)|提出了一种与LLM主流模型结构具有统一性的扩散生成模型（里面推导很多，暂时没看懂，先去看VDM了）
