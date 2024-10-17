@@ -20,6 +20,7 @@ Oct 2024|MovieGen|Oct 2024|[Movie Gen: A Cast of Media Foundation Models](https:
 Oct 2024|DART|Oct 2024|[DART: Denoising Autoregressive Transformer for Scalable Text-to-Image Generation](https://arxiv.org/html/2410.08159v1)|[poster](https://arxiv.org/html/2410.08159v1)|提出了一种与LLM主流模型结构具有统一性的扩散生成模型（里面推导很多，暂时没看懂，先去看VDM了）
 2 Oct 2024|ControlVAR|2 Oct 2024|[ControlVAR: Exploring Controllable Visual Autoregressive Modeling](https://arxiv.org/abs/2406.09750)|[code](https://github.com/lxa9867/ControlVAR)|coming soon
 7 Oct 2024|CAR|Arxiv 7 Oct 2024|[CAR: Controllable Autoregressive Modeling for Visual Generation](https://arxiv.org/abs/2410.04671)|[code](https://github.com/MiracleDance/CAR)|参考controlNet的方式在自回归生成模型VAR上进行可控生成
+14 Oct 2024|HART|Arxiv 14 Oct 2024|[HART: Efficient Visual Generation with Hybrid Autoregressive Transformer](https://arxiv.org/abs/2410.10812)|[code](https://github.com/mit-han-lab/hart)|基于VAR生成模型构建的非离散的自回归图像生成
 
 
 Diffusion model：
