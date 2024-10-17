@@ -21,6 +21,7 @@ Oct 2024|DART|Oct 2024|[DART: Denoising Autoregressive Transformer for Scalable 
 2 Oct 2024|ControlVAR|2 Oct 2024|[ControlVAR: Exploring Controllable Visual Autoregressive Modeling](https://arxiv.org/abs/2406.09750)|[code](https://github.com/lxa9867/ControlVAR)|coming soon
 7 Oct 2024|CAR|Arxiv 7 Oct 2024|[CAR: Controllable Autoregressive Modeling for Visual Generation](https://arxiv.org/abs/2410.04671)|[code](https://github.com/MiracleDance/CAR)|参考controlNet的方式在自回归生成模型VAR上进行可控生成
 14 Oct 2024|HART|Arxiv 14 Oct 2024|[HART: Efficient Visual Generation with Hybrid Autoregressive Transformer](https://arxiv.org/abs/2410.10812)|[code](https://github.com/mit-han-lab/hart)|基于VAR生成模型构建的非离散的自回归图像生成
+10 Oct 2024|Meissonic|Arxiv 10 Oct 2024|[Meissonic: Revitalizing Masked Generative Transformers for Efficient High-Resolution Text-to-Image Synthesis](https://arxiv.org/abs/2410.08261)|[code](https://huggingface.co/MeissonFlow/Meissonic)|一种高效的文生图模型，它将非自回归掩码图像建模 (MIM) 文本到图像提升到与 SDXL 等最先进的扩散模型相当的水平，并大大提高性能和效率
 
 
 Diffusion model：
