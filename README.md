@@ -23,7 +23,7 @@ Oct 2024|DART|Oct 2024|[DART: Denoising Autoregressive Transformer for Scalable 
 14 Oct 2024|HART|Arxiv 14 Oct 2024|[HART: Efficient Visual Generation with Hybrid Autoregressive Transformer](https://arxiv.org/abs/2410.10812)|[code](https://github.com/mit-han-lab/hart)|基于VAR生成模型构建的非离散的自回归图像生成
 10 Oct 2024|Meissonic|Arxiv 10 Oct 2024|[Meissonic: Revitalizing Masked Generative Transformers for Efficient High-Resolution Text-to-Image Synthesis](https://arxiv.org/abs/2410.08261)|[code](https://huggingface.co/MeissonFlow/Meissonic)|一种高效的文生图模型，它将非自回归掩码图像建模 (MIM) 文本到图像提升到与 SDXL 等最先进的扩散模型相当的水平，并大大提高性能和效率
 17 Oct 2024|Fluid|Arxiv 17 Oct 2024|[Fluid: Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens](https://arxiv.org/abs/2410.13863)|[None]()|在自回归生成任务中对token的连续和离散，预测采用光栅扫描还是随机mask方式进行了深入探讨
-27 Sep 2024|Fluid|Arxiv 27 Sep 2024|[Emu3: Next-Token Prediction is All You Need](https://arxiv.org/abs/2409.18869)|[None]()|coming soon
+27 Sep 2024|Fluid|Arxiv 27 Sep 2024|[Emu3: Next-Token Prediction is All You Need](https://arxiv.org/abs/2409.18869)|[poster](https://emu.baai.ac.cn/about)|首个采用Llama2架构实现文本、图像、视频大一统的模型(看起来确实很吊)
 
 Diffusion model：
 
