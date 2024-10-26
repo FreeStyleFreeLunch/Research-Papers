@@ -24,7 +24,7 @@ Oct 2024|DART|Oct 2024|[DART: Denoising Autoregressive Transformer for Scalable 
 10 Oct 2024|Meissonic|Arxiv 10 Oct 2024|[Meissonic: Revitalizing Masked Generative Transformers for Efficient High-Resolution Text-to-Image Synthesis](https://arxiv.org/abs/2410.08261)|[code](https://huggingface.co/MeissonFlow/Meissonic)|一种高效的文生图模型，它将非自回归掩码图像建模 (MIM) 文本到图像提升到与 SDXL 等最先进的扩散模型相当的水平，并大大提高性能和效率
 17 Oct 2024|Fluid|Arxiv 17 Oct 2024|[Fluid: Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens](https://arxiv.org/abs/2410.13863)|[None]()|在自回归生成任务中对token的连续和离散，预测采用光栅扫描还是随机mask方式进行了深入探讨
 27 Sep 2024|Emu3|Arxiv 27 Sep 2024|[Emu3: Next-Token Prediction is All You Need](https://arxiv.org/abs/2409.18869)|[poster](https://emu.baai.ac.cn/about)|首个采用Llama2架构实现文本、图像、视频大一统的模型(看起来确实很吊)
-
+24 Oct 2024|FairQueue|Arxiv 24 Oct 2024|[FairQueue: Rethinking Prompt Learning for Fair Text-to-Image Generation](https://arxiv.org/abs/2410.18615)|[None]()|coming soon
 Diffusion model：
 
 Date|Method|Conference|Title|Code/Project Page/abstract
@@ -58,7 +58,7 @@ Date|Method|Conference|Title|Code/Project Page/abstract
 2024-x-x|DEADiff|CVPR 2024|[DEADiff: An Efficient Stylization Diffusion Model with Disentangled Representations](https://openaccess.thecvf.com/content/CVPR2024/papers/Qi_DEADiff_An_Efficient_Stylization_Diffusion_Model_with_Disentangled_Representations_CVPR_2024_paper.pdf)|[DEADiff](https://tianhao-qi.github.io/DEADiff/)
 2024-8-14|TurboEdit|ARXIV 2024|[TurboEdit: Instant text-based image editing](https://arxiv.org/abs/2408.08332)|diffusion模型的目标解耦和图像编辑
 2021-X-X|VDM|NIPS 2021|[Variational Diffusion Models](https://proceedings.neurips.cc/paper/2021/file/b578f2a52a0229873fefc2a4b06377fa-Paper.pdf)|哈哈，好像是换了个角度重新推了一遍DDPM，有点没看懂，公式推导好多啊
-
+23 Oct 2024|None|Arxiv 23 Oct 2024|[Scalable Ranked Preference Optimization for Text-to-Image Generation](https://arxiv.org/abs/2410.18013)|diffusion model上的HFRL
 
 Segmentation：
 Date|Method|Conference|Title|Code
