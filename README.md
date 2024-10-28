@@ -25,6 +25,7 @@ Oct 2024|DART|Oct 2024|[DART: Denoising Autoregressive Transformer for Scalable 
 17 Oct 2024|Fluid|Arxiv 17 Oct 2024|[Fluid: Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens](https://arxiv.org/abs/2410.13863)|[None]()|在自回归生成任务中对token的连续和离散，预测采用光栅扫描还是随机mask方式进行了深入探讨
 27 Sep 2024|Emu3|Arxiv 27 Sep 2024|[Emu3: Next-Token Prediction is All You Need](https://arxiv.org/abs/2409.18869)|[poster](https://emu.baai.ac.cn/about)|首个采用Llama2架构实现文本、图像、视频大一统的模型(看起来确实很吊)
 24 Oct 2024|FairQueue|Arxiv 24 Oct 2024|[FairQueue: Rethinking Prompt Learning for Fair Text-to-Image Generation](https://arxiv.org/abs/2410.18615)|[None]()|coming soon
+30 Apr 2024|None|Arxiv 30 Apr 2024|[Better & Faster Large Language Models via Multi-token Prediction](https://arxiv.org/abs/2404.19737)|[None]()|自回归加速推理（NLP）
 
 
 Diffusion model：
