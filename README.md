@@ -62,6 +62,7 @@ Date|Method|Conference|Title|Code/Project Page/abstract
 2024-8-14|TurboEdit|ARXIV 2024|[TurboEdit: Instant text-based image editing](https://arxiv.org/abs/2408.08332)|diffusion模型的目标解耦和图像编辑
 2021-X-X|VDM|NIPS 2021|[Variational Diffusion Models](https://proceedings.neurips.cc/paper/2021/file/b578f2a52a0229873fefc2a4b06377fa-Paper.pdf)|哈哈，好像是换了个角度重新推了一遍DDPM，有点没看懂，公式推导好多啊
 23 Oct 2024|None|Arxiv 23 Oct 2024|[Scalable Ranked Preference Optimization for Text-to-Image Generation](https://arxiv.org/abs/2410.18013)|diffusion model上的HFRL
+23 Oct 2024|None|Arxiv 23 Oct 2024|[How to Continually Adapt Text-to-Image Diffusion Models for Flexible Customization?](https://arxiv.org/abs/2410.17594)|还没看
 
 Segmentation：
 Date|Method|Conference|Title|Code
