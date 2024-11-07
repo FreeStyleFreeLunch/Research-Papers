@@ -100,6 +100,7 @@ HFRL:
 Date|Method|Conference|Title|Code/Project Page|abstract
 -----|----|-----|-----|-----|-----
 6 Oct 2024|TIS-DPO|arxiv 6 Oct 2024|[TIS-DPO: Token-level Importance Sampling for Direct Preference Optimization With Estimated Weights](https://arxiv.org/abs/2410.04350)|[None]|正在看，别催啦
+17 Oct 2024|TIS-DPO|arxiv 17 Oct 2024|[Fine-Tuning Discrete Diffusion Models via Reward Optimization with Applications to DNA and Protein Design](https://arxiv.org/abs/2410.13643)|[code](https://github.com/ChenyuWang-Monica/DRAKES)|提出了一种RL算法，结合蛋白质领域的离散扩散方法，直接通过奖励对模型进行优化解决不可导问题
 
 Tutorial:
 
