@@ -97,6 +97,7 @@ Jun 2024|WATT|CVPR Jun 2024|[WATT: Weight Average Test-Time Adaptation of CLIP](
 9 Oct 2024|DECOUPLE-THEN-MERGE|9 Oct 2024|[DECOUPLE-THEN-MERGE:TOWARDS BETTER TRAINING FOR DIFFUSION MODELS](https://arxiv.org/pdf/2410.06664)|None|分时间步分别训练diffusion模型再通过merging得到减少由于不同时间步导致的参数冲突问题
 6 Jun 2024|None|6 Jun 2024|[B-ary Tree Push-Pull Method is Provably Efficient for Distributed Learning on Heterogeneous Data](https://arxiv.org/abs/2404.05454)|None|reading
 
+
 HFRL:
 Date|Method|Conference|Title|Code/Project Page|abstract
 -----|----|-----|-----|-----|-----
