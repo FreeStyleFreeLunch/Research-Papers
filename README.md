@@ -97,6 +97,7 @@ Jun 2024|WATT|CVPR Jun 2024|[WATT: Weight Average Test-Time Adaptation of CLIP](
 9 Oct 2024|DECOUPLE-THEN-MERGE|9 Oct 2024|[DECOUPLE-THEN-MERGE:TOWARDS BETTER TRAINING FOR DIFFUSION MODELS](https://arxiv.org/pdf/2410.06664)|None|分时间步分别训练diffusion模型再通过merging得到减少由于不同时间步导致的参数冲突问题
 6 Jun 2024|None|6 Jun 2024|[B-ary Tree Push-Pull Method is Provably Efficient for Distributed Learning on Heterogeneous Data](https://arxiv.org/abs/2404.05454)|None|reading
 27 Sept 2024|None|27 Sept 2024|[LiNeS: Post-training Layer Scaling Prevents Forgetting and Enhances Model Merging](https://openreview.net/forum?id=J5sUOvlLbQ)|None|探讨观点：网络深层和浅层在finetune中的不同影响
+8 Dec 2022|None|8 Dec 2022|[Editing Models with Task Arithmetic](https://arxiv.org/abs/2212.04089)|None|task vector提出的论文
 
 
 HFRL:
