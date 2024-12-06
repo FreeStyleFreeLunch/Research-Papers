@@ -98,7 +98,8 @@ Jun 2024|WATT|CVPR Jun 2024|[WATT: Weight Average Test-Time Adaptation of CLIP](
 6 Jun 2024|None|6 Jun 2024|[B-ary Tree Push-Pull Method is Provably Efficient for Distributed Learning on Heterogeneous Data](https://arxiv.org/abs/2404.05454)|None|reading
 27 Sept 2024|None|27 Sept 2024|[LiNeS: Post-training Layer Scaling Prevents Forgetting and Enhances Model Merging](https://openreview.net/forum?id=J5sUOvlLbQ)|None|探讨观点：网络深层和浅层在finetune中的不同影响
 8 Dec 2022|None|8 Dec 2022|[Editing Models with Task Arithmetic](https://arxiv.org/abs/2212.04089)|None|task vector提出的论文
-
+16 Oct 2023|None|16 Oct 2023|[Rewarded soups: towards Pareto-optimal alignment by interpolating weights fine-tuned on diverse rewards](https://arxiv.org/abs/2306.04488)|None|Rewarded Soup
+24 Nov 2024|None|24 Nov 2024|[Less is More: Efficient Model Merging with Binary Task Switch](https://arxiv.org/abs/2412.00054)|None|动态merging方法，具体有点像剪枝
 
 HFRL:
 Date|Method|Conference|Title|Code/Project Page|abstract
